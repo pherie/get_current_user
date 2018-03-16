@@ -108,6 +108,6 @@ jQuery(document).ready(function() {
 
     setInterval(function(){    
     	clear();
-    }, 15000);
+    }, 300000);
 });
 </script>
